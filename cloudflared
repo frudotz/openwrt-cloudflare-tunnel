@@ -1,0 +1,20 @@
+#!/bin/sh /etc/rc.common
+
+START=99
+STOP=01
+
+USE_PROCD=1
+PROG=/usr/bin/cloudflared
+PROG_ARGS="--pidfile /var/run/cloudflared.pid --autoupdate-freq 24h0m0s tunnel run --token YOUR_TUNNEL_TOKEN"
+PID_FILE=/var/run/cloudflared.pid
+STDOUT_LOG=/var/log/cloudflared.log
+STDERR_LOG=/var/log/cloudflared.err
+
+start_service() {
+    procd_open_instance
+    procd_set_param command $PROG $PROG_ARGS
+    procd_set_param respawn
+    procd_set_param stdout $STDOUT_LOG
+    procd_set_param stderr $STDERR_LOG
+    procd_close_instance
+}
