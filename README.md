@@ -30,7 +30,7 @@ Bu sayede cihazınız yeniden başladığında veya kesinti olduğu zamanlarda d
 [Cloudflare](https://dash.cloudflare.com/login)'e kayıt olun. Add Site butonuna tıklayın ve yönlendirmeleri takip ederek alan adınızı Cloudflare'e bağlayın.  
 Konfigürasyon dosyasını düzenlemek için WinSCP programı gerekecektir. [Buradaki bağlantı](https://winscp.net/eng/download.php) üzerinden indirebilirsiniz.  
 Aktivasyon için SSH bağlantısı gerekecektir, komut istemi veya WinSCP ile bağlanabilirsiniz. **`Komutlar > PuTTY ile aç`**  
-Konfigürasyon dosyasının içeriğini güncellemek için ihtiyacınız olacak dosyaya [buraya tıklayarak](https://gibir.net.tr/) ulaşabilirsiniz. 
+Konfigürasyon dosyasının içeriğini güncellemek için ihtiyacınız olacak dosyaya [buraya tıklayarak](https://github.com/frudotz/openwrt-cloudflare-tunnel/releases/download/Cloudflared/cloudflared.md) ulaşabilirsiniz. 
 
 - ### 🪄 Cloudflared Kurulumu
 > - OpenWRT kurulu modeminizin/routerınızın arayüzüne ulaşın.  
