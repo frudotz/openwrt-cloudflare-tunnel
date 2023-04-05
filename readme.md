@@ -4,6 +4,10 @@ Cloudflared paketinin OpenWRT ile uyumsuz config içeriğinden dolayı başlang�
 Bu sayede cihazınız yeniden başladığında veya kesinti olduğu zamanlarda da arayüze erişiminiz kaybolmayacak.  
 *Rehberimizi kaynak göstererek paylaşmanız, bilgi kaynağının yitirilmemesi üzere önemle rica olunur. 🙏*   
 
+<p align="left">
+  <a href="https://discord.gg/k6y5MBKCPW"><img src="https://img.shields.io/badge/Discord - Chat-blue?logo=discord&logoColor=white" /></a>
+</p>
+
 <details>
   <summary>İçindekiler</summary>
   <ol>
