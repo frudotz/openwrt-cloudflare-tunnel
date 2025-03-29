@@ -4,6 +4,9 @@ Cloudflared paketinin OpenWRT ile uyumsuz config içeriğinden dolayı başlang�
 Bu sayede cihazınız yeniden başladığında veya kesinti olduğu zamanlarda da arayüze erişiminiz kaybolmayacak.  
 *Rehberimizi kaynak göstererek paylaşmanız, bilgi kaynağının yitirilmemesi üzere önemle rica olunur. 🙏*   
 
+> - *Güncel **`cloudflared`** sürümlerinde konfigürasyon problemi ortadan kalkmış,
+> - **`luci-app-cloudflared`** paketi ile arayüz üzerinden kontrol edilebilir hale gelmiştir.
+
 <p align="left">
   <a href="https://discord.gg/k6y5MBKCPW"><img src="https://img.shields.io/badge/Discord - Chat-blue?logo=discord&logoColor=white" /></a>
 </p>
@@ -88,9 +91,6 @@ Sizlere gösterebilmek üzere VPN açarak ilgili domain üzerinden cihazıma eri
   <img width="410" height="auto" src="https://github.com/frudotz/openwrt-cloudflare-tunnel/blob/main/images/33.png">
   <img width="410" height="auto" src="https://github.com/frudotz/openwrt-cloudflare-tunnel/blob/main/images/34.png">
 </p> 
-
-> - *Güncel **`cloudflared`** sürümlerinde konfigürasyon problemi ortadan kalkmış,
-> - **`luci-app-cloudflared`** paketi ile arayüz üzerinden kontrol edilebilir hale gelmiştir.
 
 # 💖 Özel Teşekkürler
 Konfigürasyon düzenlemesi ve bilgi birikimiyle sağladığı destek için sevgili [@isnotallow](https://github.com/isnotallow)'a teşekkürler.
