@@ -46,9 +46,9 @@ Konfigürasyon dosyasının içeriğini güncellemek için ihtiyacınız olacak 
 > - Akan yazılar bir süre durakladığında **`CTRL+C`** kombinasyonu ile işlemi durdurun.  
 
 <p align="left">
-  <img width="auto" height="154" src="https://media.discordapp.net/attachments/796061773795033169/1092380415614013532/1.png">
-  <img width="auto" height="154" src="https://media.discordapp.net/attachments/796061773795033169/1092380415941148772/2-9.png">
-  <img width="auto" height="232" src="https://media.discordapp.net/attachments/796061773795033169/1092382801929699369/10-14.png">
+  <img width="auto" height="154" src="https://github.com/frudotz/openwrt-cloudflare-tunnel/blob/main/images/1.png">
+  <img width="auto" height="154" src="https://github.com/frudotz/openwrt-cloudflare-tunnel/blob/main/images/2-9.png">
+  <img width="auto" height="232" src="https://github.com/frudotz/openwrt-cloudflare-tunnel/blob/main/images/10-14.png">
 </p>
 
 # 🚀 Cloudflare Tunnel Oluşturma
@@ -75,9 +75,9 @@ Bu bölümde **`Create a tunnel`** butonuna tıklayın ve gelen sekmeden tüneli
 > - *\*Yerel adresinizin sonuna port sayısı girerseniz birden fazla servisi yayınlayabilirsiniz.* 
 
 <p align="left">
-  <img width="auto" height="116" src="https://media.discordapp.net/attachments/796061773795033169/1092478832700833872/15-22.png">
-  <img width="auto" height="115" src="https://media.discordapp.net/attachments/796061773795033169/1092478833170591834/23-27.png">
-  <img width="auto" height="232" src="https://media.discordapp.net/attachments/796061773795033169/1092483393658302594/28-32.png">
+  <img width="auto" height="116" src="https://github.com/frudotz/openwrt-cloudflare-tunnel/blob/main/images/15-22.png">
+  <img width="auto" height="115" src="https://github.com/frudotz/openwrt-cloudflare-tunnel/blob/main/images/23-27.png">
+  <img width="auto" height="232" src="https://github.com/frudotz/openwrt-cloudflare-tunnel/blob/main/images/28-32.png">
 </p>
 
 # 😎 Hoş Geldin Cloudflare Argo Tunnel!
@@ -85,9 +85,12 @@ Bu aşamaya kadar bir hata yapmadıysanız birkaç dakika içinde tünel tam ça
 Sizlere gösterebilmek üzere VPN açarak ilgili domain üzerinden cihazıma erişeceğim;  
 
 <p align="left">
-  <img width="410" height="auto" src="https://media.discordapp.net/attachments/796061773795033169/1092485824542675084/33.png">
-  <img width="410" height="auto" src="https://media.discordapp.net/attachments/796061773795033169/1092485824794341466/34.png">
+  <img width="410" height="auto" src="https://github.com/frudotz/openwrt-cloudflare-tunnel/blob/main/images/33.png">
+  <img width="410" height="auto" src="https://github.com/frudotz/openwrt-cloudflare-tunnel/blob/main/images/34.png">
 </p> 
+
+> - *Güncel **`cloudflared`** sürümlerinde konfigürasyon problemi ortadan kalkmış,
+> - **`luci-app-cloudflared`** paketi ile arayüz üzerinden kontrol edilebilir hale gelmiştir.
 
 # 💖 Özel Teşekkürler
 Konfigürasyon düzenlemesi ve bilgi birikimiyle sağladığı destek için sevgili [@isnotallow](https://github.com/isnotallow)'a teşekkürler.
